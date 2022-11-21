@@ -1,0 +1,52 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.titulo01 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    font-size: 90px;
+    background-color: black;
+    border-radius: 50px;
+}
+
+.button-html {
+    text-align: center;
+    margin-top: 200px; 
+}
+
+.button-css {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.button-html :hover {
+    opacity: 0.5;  
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.button-css :hover {
+    opacity: 0.5;
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.html {
+    color: orangered;
+}
+
+.css {
+    color: blue;
+}
+
+.rodape {
+    margin-top: 300px;
+}
+
